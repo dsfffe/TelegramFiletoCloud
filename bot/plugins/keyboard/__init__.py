@@ -47,7 +47,7 @@ def completedKeyboard(dl):
             [
             InlineKeyboardButton(
                 "🗂 SOURCE",
-                url="https://github.com/AbhijithNT/"
+                url="t.me/sylix_TEAM"
             )
         ]])
 
